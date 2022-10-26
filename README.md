@@ -5,4 +5,4 @@
 - 📙 Focusing on Swift & iOS
 - 🌱 I’m currently learning flutter
 - 🔨 Creator of applications and frameworks
-- 📫 Reach me by email(lifei_zdjl@qq.com) or [juejin](https://juejin.cn/user/1978776661001336/posts)
+- 📫 Reach me by email(lifei_zdjl@qq.com)
